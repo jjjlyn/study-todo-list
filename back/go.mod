@@ -1,4 +1,4 @@
-module todo-list
+module back
 
 go 1.16
 
